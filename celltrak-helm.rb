@@ -1,4 +1,4 @@
-class KubernetesHelm < Formula
+class CelltrakHelm < Formula
   desc "The Kubernetes package manager"
   homepage "https://helm.sh/"
   url "https://github.com/helm/helm.git",
